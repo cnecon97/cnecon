@@ -1,0 +1,12 @@
+---
+title: "Welcome To Quantitative Chinese Economics History"
+author: "cnecon"
+date: "2024-12-23"
+categories: [news]
+---
+
+This is the first post in a Quantitative Chinese Economics History blog. Welcome!
+
+![](thumbnail.jpg)
+
+I find that it is very effective for students to learn new economics theories when we have a concrete example. Therefore, I decided to collect some interesting examples from Chinese economics history since I am interested in Chinese history and many people many are interested in them as well.
