@@ -8,7 +8,7 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/cnecon97
+        href: https://github.com/cnecon97/cnecon
       - icon: twitter
         href: https://twitter.com/econcn
 format:
@@ -16,5 +16,7 @@ format:
     theme: cosmo
     css: styles.css
 
-
+comments:
+  giscus: 
+    repo: cnecon97/cnecon
 

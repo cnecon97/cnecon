@@ -13,7 +13,7 @@ about:
     - icon: github
       text: Github
       href: https://github.com
-
+comments: false
 ---
 
 This is a blog about Chinese economics history with a data scientist and econometrian's perspective. 

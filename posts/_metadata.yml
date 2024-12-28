@@ -6,3 +6,16 @@ freeze: true
 
 # Enable banner style title blocks
 title-block-banner: true
+
+
+comments:
+  giscus:
+    repo:  cnecon97/cnecon
+    repo-id: "R_kgDONiYHlA"
+    category: "Announcements"
+    category-id: "DIC_kwDONiYHlM4Clk95"
+    mapping: "pathname"
+    reactions-enabled: true
+    loading: lazy
+    input-position: "bottom"
+    theme: "light"
