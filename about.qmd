@@ -4,8 +4,7 @@ image: profile.jpg
 about:
   template: jolla
   links:
-    - icon：email
-      text: Email
+    - text: Email
       href: mailto:cnecon97@gmail.com
     - icon: twitter
       text: Twitter
