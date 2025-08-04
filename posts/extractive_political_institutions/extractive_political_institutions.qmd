@@ -3,7 +3,7 @@ title: "Extractive Political Institutions"
 author: "CNEcon"
 date: "2025-07-29"
 categories: [Political Economy]
-image: "image.jpg"
+image: "extractive political institutions.png"
 ---
 
 在《國家為什麼失敗》（Why Nations Fail）這本書中，作者達倫·阿西莫格魯（Daron Acemoglu）和詹姆斯·羅賓遜（James A. Robinson）提出，國家的繁榮與貧困主要取決於其制度的性質，而**榨取式政治制度**正是導致國家走向失敗的關鍵因素。
