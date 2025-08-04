@@ -4,6 +4,9 @@ image: profile.jpg
 about:
   template: jolla
   links:
+    - icon：email
+      text: Email
+      href: mailto:cnecon97@gmail.com
     - icon: twitter
       text: Twitter
       href: https://twitter.com
@@ -17,3 +20,5 @@ comments: false
 ---
 
 This is a blog about Chinese economics history with a data scientist and econometrian's perspective. 
+本博客也专注于向在北美学习经济学的同学分享学习经验。
+联系请Email。 

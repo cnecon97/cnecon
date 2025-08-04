@@ -6,7 +6,7 @@ editor: visual
 
 ## Chinese Capital Market Summary
 
-I believe that people are more serious about the data that related to money. We don't like to make mistakes about the data of money. Therefore, if we want to know true data of Chinese economics history, the data of capital market seems to be a good starting point. 
+I believe that people are more serious about the data that related to money. We don't like to make mistakes about the data of money. Therefore, if we want to know true data of Chinese economics history, the data of capital market seems to be a good starting point.
 
 TODO.
 
@@ -17,4 +17,3 @@ TODO.
 ## Current Chinese Capital Market Key Indicators
 
 TODO
-
